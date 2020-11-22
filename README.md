@@ -8,5 +8,6 @@ ____
 - Crash log files;
 - Ignore CLI configuration files;
 - etc...
-
-new line for fix branch
+# changes
+- new line for fix branch
+- new line for pycharm ide
